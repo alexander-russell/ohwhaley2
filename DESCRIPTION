@@ -1,0 +1,10 @@
+Package: ohwhaley2
+Title: Whale shaped message
+Version: 0.0.0.9000
+Authors@R: 
+    person("Alexander", "Russell", , "a@mq.edu.au", role = c("aut", "cre"))
+Description: What dup
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
